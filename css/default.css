@@ -1,0 +1,33 @@
+.oswald-font {
+    font-family: 'Oswald', sans-serif;
+}
+
+.roboto-font {
+    font-family:  Roboto, sans-serif
+}
+
+.apple-title {
+    font-size: 64px;
+    color: black;
+}
+
+.icon-size {
+    font-size: 30px;
+}
+
+/* .button-text-padding {
+    padding: 30px;
+} */
+
+.email-button:active {
+    opacity: 0.8
+} 
+
+.button-styles {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
